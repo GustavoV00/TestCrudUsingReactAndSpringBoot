@@ -13,7 +13,7 @@ On backend was used Spring Boot
 4. h2
 
 
-How to run:
+How to run: </br>
 To run the frontend, just go to frontend folder and run `npm install` to install the necessary packages and after, run `npm start` to run the application.
 
 To run the backend, just go to backend folder and run through there.
