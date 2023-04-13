@@ -3,7 +3,7 @@
 
 On frontend was used ReactJS
 1. Axios to do the requests
-2. States to laod the data
+2. States to load the data
 3. async/await
 
 On backend was used Spring Boot
