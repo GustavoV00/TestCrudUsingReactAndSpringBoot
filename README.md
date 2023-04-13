@@ -1,6 +1,6 @@
 # Full stack app using React and Spring Boot
 
-]
+
 On frontend was used ReactJS
 1. Axios to do the requests
 2. States to laod the data
